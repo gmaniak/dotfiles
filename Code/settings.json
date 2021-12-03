@@ -1,6 +1,6 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Material Theme",
+    "workbench.colorTheme": "Community Material Theme",
     "editor.renderWhitespace": "all",
     "files.trimTrailingWhitespace": true,
     "editor.rulers": [100]
