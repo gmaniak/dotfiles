@@ -99,3 +99,8 @@ fi
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Remove git status for spaceship theme
+# This will improve the speed in git repos
+# SPACESHIP_GIT_STATUS_SHOW=false
+
